@@ -32,7 +32,7 @@
   - 论文**《AK-DL: A Shallow Neural Network Model for Diagnosing Actinic Keratosis with Better Performance than Deep Neural Networks》**在投，承担论文的英文撰写任务。
   
   
-- #### CVDA实验室 — 科研实习（2019.10-2020.2）
+- #### 北京大学CVDA实验室 — 科研实习（2019.10-2020.2）
   - **主要工作**：尝试利用**Hough Transform**检测球场直线并计算交点，完成对于羽毛球场的图片位置标定，计算得到图片位置点与相机3D位置点的映射函数，完成对于场地的自动标定工作。
 
 ### Publication
