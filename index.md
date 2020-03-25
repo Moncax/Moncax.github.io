@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名：陈昂轩
+#### 学校：中国农业大学
+#### 专业：理科试验班（信息科学）
+#### 成绩排名：6/35
+我班保研比例70%，全校选拔，动态管理：入学报名84人，大一入选52人，现淘汰后余35人
+#### 邮箱：angxuan.chen@foxmail.com
+#### Tel：18811776383
+### 最新消息
+- 【New!】 我作为负责人的国家级创新项目《基于深度学习的食品安全问答系统》正在结题！
+### 科研经历
+- #### 《基于深度学习的食品安全问答系统》— 国家级大学生创新项目负责人（2018.12-2020.4）
+  主要工作：提出并实现了**基于问题分类**的**实体结构数据库**的问答系统流程想法。利用Word2Vec产生的词向量模型，对问题句和答案句的词语进行Embedding，并利用**BiLSTM**对问题句和从**实体结构数据库**抽取的**候选答案句集**的匹配的正确与否进行二分类，完成**问题-答案对的匹配模型**，并从答案句中得到答案。
+  - 前期工作论文**《基于LSTM的食品安全自动问答系统方法研究》**，承担模型构建与实验完成、部分论文撰写任务，以第二作者身份投稿至《农业机械学报》，目前已经见刊**（EI检索）**。
+- #### 北京食品营养与人类健康高精尖创新中心 — 科研实习（2019.6-2020.2）
+  主要工作：在老师的指导下参与角化病识别研究，提出了浅层CNN网络对于角化病数据集的优越性假设，完成对论文的全英文撰写。
+  - 论文**《AK-DL: A Shallow Neural Network Model for Diagnosing Actinic Keratosis with Better Performance than Deep Neural Networks》**在投，承担论文的英文撰写任务。
+- #### CVDA实验室 — 科研实习（2019.10-2020.2）
+  主要工作：尝试利用**Hough Transform**检测球场直线并计算交点，完成对于羽毛球场的图片位置标定，计算得到图片位置点与相机3D位置点的映射函数，完成对于场地的自动标定工作。
 
-You can use the [editor on GitHub](https://github.com/Moncax/Moncax.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Publication
+1. 陈瑛, **陈昂轩**, 董玉博等. 基于LSTM的食品安全自动问答系统方法研究[J]. *农业机械学报*, 2019.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 荣誉奖励
+- 中国农业大学三好学生（两次）
+- 优秀共青团员、中共预备党员
+- 中国农业大学优秀学生奖学金**（Top 10%）**（两次）、学习优秀奖学金（Top 15%）
+### 获奖经历
+- 全国大学生数学建模竞赛  北京市一等奖
+- 美国大学生数学建模竞赛  S奖
+- 中国农业大学数学建模竞赛 二等奖
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Moncax/Moncax.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 个人技能
+- 极大科研热情，**highly self-motivated**，对新方向能够快速学习上手。
+- 熟悉Python，C++编程，能够快速实现模型搭建。
+- 对于动手操作有着很强的好奇心，本科内的**所有实验课程**（专业课和必修课）均分在**90分以上**。
+- 有过独立撰写英文论文的经历，能够流畅的阅读英文顶刊和顶会，能用英文表达自身想法。
+- 常担任项目**组长/竞赛队长**，具有优秀沟通、协作、领导的能力，具有良好的团队合作精神。
+- 热爱生活与健身，常打羽毛球与篮球
