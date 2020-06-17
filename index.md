@@ -54,6 +54,7 @@
 
 ### Publication
 1. 陈瑛（导师）, **陈昂轩**, 董玉博等. 基于LSTM的食品安全自动问答系统方法研究[J]. *农业机械学报*, 2019.
+2. Wang, L.; **Chen, A.**; Zhang, Y.; Wang, X.; Zhang, Y.; Shen, Q.; Xue, Y. AK-DL: A Shallow Neural Network Model for Diagnosing Actinic Keratosis with Better Performance than Deep Neural Networks. Diagnostics 2020, 10, 217.
 
 ### 荣誉奖励
 - 中国农业大学三好学生（两次）
