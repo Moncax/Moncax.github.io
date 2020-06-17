@@ -40,7 +40,7 @@
   - 在老师的指导下参与角化病识别研究，在识别工作基础上提出了**浅层CNN网络**对于角化病数据集的**数据优越性假设**，并得到了实验验证。
 
 
-  - 论文**《AK-DL: A Shallow Neural Network Model for Diagnosing Actinic Keratosis with Better Performance than Deep Neural Networks》**在投，承担论文的英文撰写任务。
+  - 论文**《AK-DL: A Shallow Neural Network Model for Diagnosing Actinic Keratosis with Better Performance than Deep Neural Networks》**二作，**已SCI检索**。
   
   
 - #### CVDA实验室 — 科研实习（2019.10-2020.2）
@@ -57,7 +57,6 @@
 
 ### 荣誉奖励
 - 中国农业大学三好学生（两次）
-- 优秀共青团员、中共预备党员
 - 中国农业大学优秀学生奖学金**（Top 10%）**（两次）、学习优秀奖学金（Top 15%）
 
 ### 获奖经历
