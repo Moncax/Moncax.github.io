@@ -32,29 +32,8 @@
   
   - 《基于LSTM的食品安全自动问答系统方法研究》已发表，**EI检索**。
 
-
-- #### 北京食品营养与人类健康高精尖创新中心 — 科研实习（2019.6-2020.2）
-  - **主要工作**：
-  
-  
-  - 在老师的指导下参与角化病识别研究，在识别工作基础上提出了**浅层CNN网络**对于角化病数据集的**数据优越性假设**，并得到了实验验证。
-
-
-  - 论文**《AK-DL: A Shallow Neural Network Model for Diagnosing Actinic Keratosis with Better Performance than Deep Neural Networks》**二作，**已SCI检索**。
-  
-  
-- #### CVDA实验室 — 科研实习（2019.10-2020.2）
-  - **主要工作**：
-  
-  
-  - 尝试利用**Hough Transform**和**均值滤波**检测连续帧内的羽毛球场方位，完成了对羽毛球场地的自动识别划分工作。
-  
-  
-  - 通过学习，对自动标定和数字图像处理的方法有了一定的了解。
-
 ### Publication
 1. 陈瑛（导师）, **陈昂轩**, 董玉博等. 基于LSTM的食品安全自动问答系统方法研究[J]. *农业机械学报*, 2019.
-2. Wang, L.; **Chen, A.**; Zhang, Y.; Wang, X.; Zhang, Y.; Shen, Q.; Xue, Y. AK-DL: A Shallow Neural Network Model for Diagnosing Actinic Keratosis with Better Performance than Deep Neural Networks. Diagnostics 2020, 10, 217.
 
 ### 荣誉奖励
 - 中国农业大学三好学生（两次）
