@@ -43,7 +43,7 @@
   - 论文**《AK-DL: A Shallow Neural Network Model for Diagnosing Actinic Keratosis with Better Performance than Deep Neural Networks》**二作，**已SCI检索**。
 
 
-- #### CVDA实验室 — 科研实习（2019.10-2020.2）
+- #### 北京大学CVDA实验室 — 科研实习（2019.10-2020.2）
   - **主要工作**：
   
   
